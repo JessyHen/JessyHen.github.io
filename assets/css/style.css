@@ -1316,7 +1316,9 @@ section {
   padding: 0;
   margin: 0 0 40px 0;
 }
-
+.introduction{
+  text-align: center;
+}
 #footer .social-links {
   margin: 0 0 40px 0;
 }
